@@ -36,6 +36,15 @@ This project aims to:
 - **Evaluation Metrics:** Accuracy Score, Confusion Matrix, Classification Report
 
 ---
+## .py file screenshort
+<img width="497" height="422" alt="Screenshot 2025-10-16 083713" src="https://github.com/user-attachments/assets/afda535e-2a2c-4268-b669-d0e0a463d2b2" />
+
+---
+## Project demo screenshoot
+
+<img width="338" height="299" alt="Screenshot 2025-10-16 083953" src="https://github.com/user-attachments/assets/c3156d98-1833-4f0c-839d-7835f5d8b400" />
+
+---
 
 ## Author
 Omope Elizabeth
